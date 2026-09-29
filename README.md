@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./cn1-github-hero.jpg" alt="CN1 / EggplantQueen — Games, Bots, Community, the CLUB" width="100%">
+</p>
+
 # CN1 / EggplantQueen
 
 **An internet-native character becoming an ecosystem.**
