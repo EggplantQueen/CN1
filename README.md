@@ -6,6 +6,8 @@ Games. Bots. Community. Multiplayer experiments. **the CLUB.**
 
 Built in public. Slowly. Bad decisions included.
 
+[**STATUS**](STATUS.md) · [**ROADMAP**](ROADMAP.md) · [**VISUAL GUIDE**](BRAND.md) · [**WEBSITE**](https://eggplantqueen.lol) · [**TELEGRAM**](https://t.me/CN1_EggplantQueen) · [**X**](https://x.com/CN1Eggplant)
+
 ---
 
 ## What is CN1?
@@ -50,6 +52,8 @@ The character, visual identity, attitude, games, bots and spaces are designed to
 
 Expect deadpan reactions, pink eyes, questionable decisions and an unreasonable amount of eggplant-related infrastructure.
 
+→ [Public visual guide](BRAND.md)
+
 ## What is being built now?
 
 Current focus includes:
@@ -61,7 +65,8 @@ Current focus includes:
 - continuing Telegram/community tooling;
 - turning actual development progress into public content instead of manufactured hype.
 
-A concise public roadmap will live in this repository as the project develops.
+→ [See current status](STATUS.md)  
+→ [See the public roadmap](ROADMAP.md)
 
 ## Built in public — not open source
 
