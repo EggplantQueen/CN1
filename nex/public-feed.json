@@ -1,0 +1,63 @@
+{
+  "schema": "cn1-nex-public-feed-v1",
+  "version": 1,
+  "published_on": "2026-11-02",
+  "records": [
+    {
+      "title": "CN1 EggplantQueen",
+      "body": "CN1 is the adult stylized Eggplant Queen character connecting community, games, social spaces and Telegram tooling. The public repository is a presentation home, not the private production code.",
+      "as_of": "2026-11-02",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/README.md",
+      "status": "reported_live"
+    },
+    {
+      "title": "CN1 the CLUB",
+      "body": "The public STATUS page describes the CLUB as live and evolving: a CN1 online social and music space. Live/evolving does not mean every experimental room, game or new feature is released.",
+      "as_of": "2026-09-29",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/STATUS.md",
+      "status": "reported_live"
+    },
+    {
+      "title": "CN1 BAD DECISIONS",
+      "body": "The public STATUS document lists BAD DECISIONS as an experimental arcade experience. It does not independently establish which chapters or game builds are publicly available.",
+      "as_of": "2026-09-29",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/STATUS.md",
+      "status": "experimental"
+    },
+    {
+      "title": "Lower Rooms",
+      "body": "The public status reports ongoing combat and multiplayer development; movement repetition and aiming/targeting behavior were listed as known rough edges. Do not claim these were fixed without a newer verified report.",
+      "as_of": "2026-09-29",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/STATUS.md",
+      "status": "in_development"
+    },
+    {
+      "title": "CN1 public Telegram bots",
+      "body": "The public status identifies EggplantQueenBot as a live Telegram community interaction bot. NEX is a separate laboratory assistant and cannot control that bot or members' gameplay by merely answering messages.",
+      "as_of": "2026-09-29",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/STATUS.md",
+      "status": "reported_live"
+    },
+    {
+      "title": "CN1 3D character",
+      "body": "The public roadmap describes a reusable 3D CN1 character foundation for games, the CLUB and future content. It remains a development direction rather than a published universal avatar system.",
+      "as_of": "2026-11-02",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/ROADMAP.md",
+      "status": "in_development"
+    },
+    {
+      "title": "Eggplant Slots",
+      "body": "The public README describes Eggplant Slots as an active CN1 game project. That description alone is not a current runtime or payout verification; availability should be checked through official game surfaces.",
+      "as_of": "2026-11-02",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/README.md",
+      "status": "unknown"
+    },
+    {
+      "title": "CN1 Comics and Sunday stories",
+      "body": "The public roadmap includes comics and visual storytelling among later possibilities for CN1. A roadmap direction is not evidence that a particular episode is published.",
+      "as_of": "2026-11-02",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/ROADMAP.md",
+      "status": "planned"
+    }
+  ]
+}
