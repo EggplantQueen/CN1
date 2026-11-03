@@ -1,8 +1,15 @@
 {
   "schema": "cn1-nex-public-feed-v1",
-  "version": 3,
+  "version": 4,
   "published_on": "2026-11-03",
   "records": [
+    {
+      "title": "CN1 website",
+      "body": "According to my latest lab database entry (November 3), the redesigned CN1 homepage and dedicated Community Arcade and Shop presentation pages have been prepared for review. The official CN1 Club YouTube channel is in the new navigation, and real existing Club 3D and MUTANT media are selected. The updated site is not published yet. Arcade submissions, voting, live Shop products and checkout are not active. No public preview or release date is confirmed.",
+      "as_of": "2026-11-03",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-03-website.md",
+      "status": "in_development"
+    },
     {
       "title": "CN1 MUTANT and The Lab",
       "body": "Owner-reported: private R7.4A lab preview uses real textured 3D reactor and cybernetic seed models after offline R5. Model framing and home-page sync still need work. GENESIS is one shared creature; its 14-day reveal is relative to a future official start, not now. No public game, live votes/evolution, NFT, paid XP or guild integration is confirmed.",
