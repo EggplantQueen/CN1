@@ -1,6 +1,6 @@
 {
   "schema": "cn1-nex-public-feed-v1",
-  "version": 3,
+  "version": 4,
   "published_on": "2026-11-03",
   "records": [
     {
@@ -65,6 +65,13 @@
       "as_of": "2026-11-01",
       "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-03-ecosystem.md",
       "status": "reported_live"
+    },
+    {
+      "title": "CN1 website",
+      "body": "According to my lab database, the eggplantqueen.lol redesign is progressing. The ecosystem inventory is documented and dedicated Community Arcade and CN1 Shop pages, shared navigation and the official YouTube channel integration are prepared for review. Community game submissions and voting, a live product catalogue, checkout and the shared Club shop are not yet available features. Homepage integration and deployment still need validation. No redesigned website launch, public preview or delivery date has been confirmed.",
+      "as_of": "2026-11-03",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-03-website.md",
+      "status": "in_development"
     }
   ]
 }
