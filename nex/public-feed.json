@@ -1,0 +1,21 @@
+{
+  "schema": "cn1-nex-public-feed-v1",
+  "version": 1,
+  "published_on": "2026-11-03",
+  "records": [
+    {
+      "title": "CN1 MUTANT and The Lab",
+      "body": "As of 2026-11-03, MUTANT / GENESIS is in private development, not publicly launched. Beyond the offline R5 demo, a private R7.4A laboratory preview uses textured 3D reactor/vat and cybernetic eggplant seed models; their framing and the home-page integration still need refinement. The one shared GENESIS creature and earliest reveal 14 days after a future official start are design rules, not a running timer. Public collective votes, live evolution backend, NFT, paid XP and guild-linked progression are not confirmed active.",
+      "as_of": "2026-11-03",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-03.md",
+      "status": "in_development"
+    },
+    {
+      "title": "NEX assistant and how to ask",
+      "body": "On 2026-11-03, owner-observed Telegram tests confirmed that @CN1Nex_bot answers members' direct project questions in the approved group, and the CN1-to-NEX pilot supports one visible theatrical order followed by one public project briefing. NEX is a separate technical guide; CN1 retains her personality and existing responsibilities. NEX's project answers draw on dated, curated public notes, not live production telemetry. It has no authority to grant XP, change games or guilds, or disclose owner-private notes.",
+      "as_of": "2026-11-03",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-03.md",
+      "status": "reported_live"
+    }
+  ]
+}
