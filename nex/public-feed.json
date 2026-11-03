@@ -1,13 +1,13 @@
 {
   "schema": "cn1-nex-public-feed-v1",
-  "version": 4,
+  "version": 5,
   "published_on": "2026-11-03",
   "records": [
     {
       "title": "CN1 MUTANT and The Lab",
-      "body": "Owner-reported: private R7.4A lab preview uses real textured 3D reactor and cybernetic seed models after offline R5. Model framing and home-page sync still need work. GENESIS is one shared creature; its 14-day reveal is relative to a future official start, not now. No public game, live votes/evolution, NFT, paid XP or guild integration is confirmed.",
+      "body": "Owner-reported: MUTANT now focuses on missions and experiments inside a 3D laboratory, not a second Demon Drift. The private preview has a 3D bioreactor, cybernetic seed and camera framing under refinement. Sharing discoveries on Telegram and connecting items to guilds and Demon Drift are planned, not live. GENESIS is a related collective-creature concept, but its official countdown, public votes and creature release have not begun.",
       "as_of": "2026-11-03",
-      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-03.md",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-03-mutant-lab.md",
       "status": "in_development"
     },
     {
