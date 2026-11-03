@@ -6,6 +6,17 @@ A quick answer to one question:
 
 ---
 
+## RECENT VERIFIED / OWNER-REPORTED NOTES
+
+**2026-11-03 — [MUTANT / GENESIS and NEX laboratory update](nex/updates/2026-11-03.md).**
+MUTANT is progressing through a **private R7.4A lab preview**, not a public game launch. NEX has been tested as a separate technical guide to public project information. Read the dated note for the limits of these claims.
+
+[NEX's machine-readable public project archive](nex/public-feed.json) · [How the archive is maintained](nex/README.md)
+
+The project sections below retain their own last-reviewed dates; this update does **not** re-certify every older release.
+
+---
+
 ## LIVE
 
 ### CN1 public ecosystem
