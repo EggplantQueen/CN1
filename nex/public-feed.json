@@ -1,6 +1,6 @@
 {
   "schema": "cn1-nex-public-feed-v1",
-  "version": 2,
+  "version": 3,
   "published_on": "2026-11-03",
   "records": [
     {
@@ -15,6 +15,55 @@
       "body": "Owner-observed November 3: NEX answers direct member project questions and receives one-off, in-character CN1 orders in the Telegram pilot. It uses dated public records, not live game telemetry. CN1 retains her own persona; NEX cannot change XP, moderation, guilds, or reveal private owner notes.",
       "as_of": "2026-11-03",
       "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-03.md",
+      "status": "reported_live"
+    },
+    {
+      "title": "CN1 the CLUB",
+      "body": "The CLUB is an owner-reported live and evolving 3D social/music space, according to the public CN1 status of 2026-09-29. Avatars, game-room activity and social features continue to evolve. This does not confirm that every arcade station, multiplayer feature, roulette variant or reward is publicly accessible in every build.",
+      "as_of": "2026-09-29",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-03-ecosystem.md",
+      "status": "reported_live"
+    },
+    {
+      "title": "CN1 Demon Drift",
+      "body": "The owner reported Chapter I publicly released by 2026-10-31. Later chapters remain in development, with a focus on better movement, discovery and companion-led clues. Guild integrations and later-story features are design work, not confirmed live. Check the official Arcade for current playable access.",
+      "as_of": "2026-10-31",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-03-ecosystem.md",
+      "status": "in_development"
+    },
+    {
+      "title": "CN1 BAD DECISIONS",
+      "body": "The owner has tested Room 1 combat updates and experiments for later areas including Liquidity Mall and a DOOM-like room. Loot, Scrap, crafting and equipment upgrades are under development; do not assume planned trading, shared XP or every prototype room is live.",
+      "as_of": "2026-11-01",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-03-ecosystem.md",
+      "status": "experimental"
+    },
+    {
+      "title": "Lower Rooms",
+      "body": "Owner-reported private technical tests included room create/join, human 1v1 combat, avatars, damage, kills, respawn and combat effects. Broader multiplayer work continues. Full public 2v2 availability is not verified by this checkpoint.",
+      "as_of": "2026-10-29",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-03-ecosystem.md",
+      "status": "in_development"
+    },
+    {
+      "title": "CN1 guilds",
+      "body": "The owner reported a limited private Guilds R16 beta with help and read-only NFT-related functions. Links to Demon Drift, shared items and guild resource systems remain staged work. Public signup, XP entitlement and unrestricted transfers are not established.",
+      "as_of": "2026-10-31",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-03-ecosystem.md",
+      "status": "in_development"
+    },
+    {
+      "title": "CN1 DJ Lab",
+      "body": "The owner tested a multi-minute mixing timeline and work on easier sound selection, audio handling and interface design. This remains an experimental workstream; the exact deployed build, audio quality and public access need a separate current check.",
+      "as_of": "2026-11-01",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-03-ecosystem.md",
+      "status": "experimental"
+    },
+    {
+      "title": "CN1 Comics and Sunday stories",
+      "body": "The CN1 comic/BD series has recurring Sunday publications shared by its creator through community channels. Its art direction and humor connect to CN1's larger universe. A specific future episode, numbering or public release time should not be assumed from this archived record.",
+      "as_of": "2026-11-01",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-03-ecosystem.md",
       "status": "reported_live"
     }
   ]
