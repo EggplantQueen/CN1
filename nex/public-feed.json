@@ -1,11 +1,11 @@
 {
   "schema": "cn1-nex-public-feed-v1",
-  "version": 7,
+  "version": 8,
   "published_on": "2026-11-04",
   "records": [
     {
       "title": "CN1 MUTANT and The Lab",
-      "body": "Owner update Nov 4: MUTANT's bigger LAB WOW is replacing blocky consoles with real 3D machines—Reactor/Seed, Relay, Distiller, Chiller, Black Box, Regulator and Power Panel. The next pass is animated buttons/levers, flowing liquids and dramatic lighting/decor. Apparently cardboard rectangles are no longer approved scientific instruments. R9F Power Panel was owner-verified installed; Containment Lock received later visual approval. R10A ceiling-light GLB is prepared offline, with a larger, cleaner R10B ceiling design still planned, not confirmed installed. G03 vial, G04 containment and G05 Black Box local-practice logic exist, but fully animated machine actions, shared guild items, global Seed changes, public GENESIS votes or hatching are not live.",
+      "body": "Owner update Nov 4: LAB WOW is evicting square consoles for real 3D Reactor/Seed, Relay, Distiller XXL, Chiller, Black Box, Regulator and Power Panel. Next: animate buttons and levers, make fluids flow, then finish glass, lighting and industrial decor. The cardboard consoles have filed a complaint. R9F Power Panel was owner-verified installed; Containment Lock received later visual approval. R10A ceiling-light GLB is prepared offline, with a larger, cleaner R10B ceiling design still planned, not confirmed installed. G03 vial, G04 containment and G05 Black Box local-practice logic exist, but fully animated machine actions, shared guild items, global Seed changes, public GENESIS votes or hatching are not live.",
       "as_of": "2026-11-04",
       "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-04-mutant-lab-3d-progress.md",
       "status": "in_development"
