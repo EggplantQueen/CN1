@@ -4,6 +4,7 @@ This directory contains **public editorial project records** read by the separat
 
 - [Current machine-readable feed](public-feed.json)
 - [November 3, 2026: MUTANT / GENESIS and NEX update](updates/2026-11-03.md)
+- [November 4, 2026: Raid Bot, NEX X Radar pilot, and curated X discovery](updates/2026-11-04-x-community-tools.md)
 
 ## How publication works
 
