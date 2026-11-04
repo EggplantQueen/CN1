@@ -1,13 +1,13 @@
 {
   "schema": "cn1-nex-public-feed-v1",
-  "version": 6,
+  "version": 7,
   "published_on": "2026-11-04",
   "records": [
     {
       "title": "CN1 MUTANT and The Lab",
-      "body": "Owner-reported: MUTANT now focuses on missions and experiments inside a 3D laboratory, not a second Demon Drift. The private preview has a 3D bioreactor, cybernetic seed and camera framing under refinement. Sharing discoveries on Telegram and connecting items to guilds and Demon Drift are planned, not live. GENESIS is a related collective-creature concept, but its official countdown, public votes and creature release have not begun.",
-      "as_of": "2026-11-03",
-      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-03-mutant-lab.md",
+      "body": "Owner update Nov 4: MUTANT's bigger LAB WOW is replacing blocky consoles with real 3D machines—Reactor/Seed, Relay, Distiller, Chiller, Black Box, Regulator and Power Panel. The next pass is animated buttons/levers, flowing liquids and dramatic lighting/decor. Apparently cardboard rectangles are no longer approved scientific instruments. R9F Power Panel was owner-verified installed; Containment Lock received later visual approval. R10A ceiling-light GLB is prepared offline, with a larger, cleaner R10B ceiling design still planned, not confirmed installed. G03 vial, G04 containment and G05 Black Box local-practice logic exist, but fully animated machine actions, shared guild items, global Seed changes, public GENESIS votes or hatching are not live.",
+      "as_of": "2026-11-04",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-04-mutant-lab-3d-progress.md",
       "status": "in_development"
     },
     {
@@ -92,6 +92,13 @@
       "body": "CN1 is using a human-curated process to identify relevant X discussions about Solana, memecoins, Web3 gaming, Telegram community tooling and related culture. Suggestions are reviewed before community sharing or publishing; NEX X Radar currently uses owner-selected links, not an always-on automated X discovery source. A direct automated watch-to-NEX integration is in development and may require licensed data access or an X API with limits and costs. It is not an included live paid-API product, and no automatic engagement or mass tagging is provided.",
       "as_of": "2026-11-04",
       "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-04-x-community-tools.md",
+      "status": "in_development"
+    },
+    {
+      "title": "CN1 MUTANT 3D machines and lab effects",
+      "body": "MUTANT owner checkpoint Nov 4: LAB WOW's 26×22×7.2 scene-unit room has more space around the enlarged bioreactor and cybernetic Seed. THE RELAY scanner has access from both sides; Distiller XXL, Chiller, Black Box, Pressure Regulator and Power Control Panel use original independent GLB models instead of generic box stations. The R9F power panel has a verified owner deployment receipt; the Containment Lock has owner visual approval without a reviewed SSH receipt. R10A's new ceiling lamp is prepared offline, not yet verified installed; R10B aims to enlarge and centre it, simplify ceiling clutter and give a few neon strips restrained flicker and light spill. Still to build: working animated switches, buttons, handwheels and lock levers; visible circulation and reactions of fluids; glass, pipework, smoke, lighting and industrial details; integration with G03/G04/G05 practice and real browser/mobile QA. The machines look far more respectable; the buttons still need acting lessons.",
+      "as_of": "2026-11-04",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-04-mutant-lab-3d-progress.md",
       "status": "in_development"
     }
   ]
