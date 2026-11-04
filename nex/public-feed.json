@@ -1,7 +1,7 @@
 {
   "schema": "cn1-nex-public-feed-v1",
-  "version": 5,
-  "published_on": "2026-11-03",
+  "version": 6,
+  "published_on": "2026-11-04",
   "records": [
     {
       "title": "CN1 MUTANT and The Lab",
@@ -12,9 +12,9 @@
     },
     {
       "title": "NEX assistant and how to ask",
-      "body": "Owner-observed November 3: NEX answers direct member project questions and receives one-off, in-character CN1 orders in the Telegram pilot. It uses dated public records, not live game telemetry. CN1 retains her own persona; NEX cannot change XP, moderation, guilds, or reveal private owner notes.",
-      "as_of": "2026-11-03",
-      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-03.md",
+      "body": "Owner-observed November 4: NEX answers direct community project questions using dated public records and is a separate assistant from CN1. The owner installed and successfully tested its X Radar group pilot: a selected X post can be previewed for human approval or dismissal before the link is shared voluntarily in Telegram. NEX does not continuously search X by itself, cannot certify X engagement, and does not issue XP or alter the Raid Bot. No mass tags, automatic X replies or forced group campaigns are part of this pilot.",
+      "as_of": "2026-11-04",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-04-x-community-tools.md",
       "status": "reported_live"
     },
     {
@@ -71,6 +71,27 @@
       "body": "According to my lab database, the eggplantqueen.lol redesign is progressing. The ecosystem inventory is documented and dedicated Community Arcade and CN1 Shop pages, shared navigation and the official YouTube channel integration are prepared for review. Community game submissions and voting, a live product catalogue, checkout and the shared Club shop are not yet available features. Homepage integration and deployment still need validation. No redesigned website launch, public preview or delivery date has been confirmed.",
       "as_of": "2026-11-03",
       "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-03-website.md",
+      "status": "in_development"
+    },
+    {
+      "title": "CN1 Raid Bot",
+      "body": "CN1's existing Telegram Raid Bot supports optional community missions around selected X posts. Administrators can configure mission duration and limits; optional participation and reward rules belong to the CN1 Raid system, not NEX. A manual completion signal must not be described as independently verified X likes or replies. The Raid Bot is separate from NEX X Radar. A future integration might be explored, but none is confirmed live. No pressure, spam or copy-paste campaigns are supported.",
+      "as_of": "2026-11-04",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-04-x-community-tools.md",
+      "status": "reported_live"
+    },
+    {
+      "title": "CN1 X Radar",
+      "body": "Owner-reported November 4: NEX X Radar is installed and tested as an owner-controlled Telegram pilot. A curated X conversation can be previewed with clear human approval or dismissal; the public post link is not released to the group until the owner authorizes it. Participation is optional and meant for original discussion, not raids or guaranteed interaction. This pilot does not automatically search all of X, post replies or award XP; a production integration with the separate Raid Bot remains future work.",
+      "as_of": "2026-11-04",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-04-x-community-tools.md",
+      "status": "reported_live"
+    },
+    {
+      "title": "CN1 X discovery and post watch",
+      "body": "CN1 is using a human-curated process to identify relevant X discussions about Solana, memecoins, Web3 gaming, Telegram community tooling and related culture. Suggestions are reviewed before community sharing or publishing; NEX X Radar currently uses owner-selected links, not an always-on automated X discovery source. A direct automated watch-to-NEX integration is in development and may require licensed data access or an X API with limits and costs. It is not an included live paid-API product, and no automatic engagement or mass tagging is provided.",
+      "as_of": "2026-11-04",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-04-x-community-tools.md",
       "status": "in_development"
     }
   ]
