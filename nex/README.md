@@ -7,6 +7,7 @@ This directory contains **public editorial project records** read by the separat
 - [November 4, 2026: Raid Bot, NEX X Radar pilot, and curated X discovery](updates/2026-11-04-x-community-tools.md)
 - [November 4, 2026: MUTANT 3D laboratory — real machines, pending buttons, fluids and decor](updates/2026-11-04-mutant-lab-3d-progress.md)
 - [November 6, 2026: MUTANT official entrance, public branding and Black Lab verification limits](updates/2026-11-06-mutant-public-entry.md)
+- [November 6, 2026: owner-tested NEX welcome in Brazilian Portuguese; conversational expansion not yet live](updates/2026-11-06-nex-multilingual-welcome.md)
 
 ## How publication works
 
