@@ -1,13 +1,13 @@
 {
   "schema": "cn1-nex-public-feed-v1",
-  "version": 8,
-  "published_on": "2026-11-04",
+  "version": 9,
+  "published_on": "2026-11-06",
   "records": [
     {
       "title": "CN1 MUTANT and The Lab",
-      "body": "Owner update Nov 4: LAB WOW is evicting square consoles for real 3D Reactor/Seed, Relay, Distiller XXL, Chiller, Black Box, Regulator and Power Panel. Next: animate buttons and levers, make fluids flow, then finish glass, lighting and industrial decor. The cardboard consoles have filed a complaint. R9F Power Panel was owner-verified installed; Containment Lock received later visual approval. R10A ceiling-light GLB is prepared offline, with a larger, cleaner R10B ceiling design still planned, not confirmed installed. G03 vial, G04 containment and G05 Black Box local-practice logic exist, but fully animated machine actions, shared guild items, global Seed changes, public GENESIS votes or hatching are not live.",
-      "as_of": "2026-11-04",
-      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-04-mutant-lab-3d-progress.md",
+      "body": "Owner checkpoint Nov 6: CN1 MUTANT's public presentation is called The Underground Experiment; the CN1 website MUTANT card opens the separate MUTANT homepage, not a forced jump into the lab. The laboratory is branded THE BLACK LAB at mutant.eggplantqueen.lol/black-lab/. The owner verified a copy-only cleanup: zero visible 3D-tool references on the MUTANT homepage, technical version labels removed from public copy, existing navigation and original 3D/gameplay unchanged. A complete 3D browser start was not verified by this receipt: an earlier test stalled at CALIBRATING SYSTEMS. NEX and the Seed are present; real guild inventory, public votes, global Seed changes and full mechanical animation are not live.",
+      "as_of": "2026-11-06",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-06-mutant-public-entry.md",
       "status": "in_development"
     },
     {
@@ -68,10 +68,10 @@
     },
     {
       "title": "CN1 website",
-      "body": "According to my lab database, the eggplantqueen.lol redesign is progressing. The ecosystem inventory is documented and dedicated Community Arcade and CN1 Shop pages, shared navigation and the official YouTube channel integration are prepared for review. Community game submissions and voting, a live product catalogue, checkout and the shared Club shop are not yet available features. Homepage integration and deployment still need validation. No redesigned website launch, public preview or delivery date has been confirmed.",
-      "as_of": "2026-11-03",
-      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-03-website.md",
-      "status": "in_development"
+      "body": "The owner reports the official CN1 public website at eggplantqueen.lol is online and that its MUTANT card correctly opens the MUTANT homepage, mutant.eggplantqueen.lol. From that homepage, visitors can enter the separately branded The Black Lab laboratory. The public MUTANT titles/labels were cleaned up in the Nov 6 owner-verified checkpoint; an old Telegram link preview may remain cached. Other CN1 website areas include dedicated Shop and Community Arcade presentation work, but this record is not proof of a live checkout, open community ballots or a fully completed catalogue. Do not claim the old November 3 'homepage still pending publication' status is current.",
+      "as_of": "2026-11-06",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-06-mutant-public-entry.md",
+      "status": "reported_live"
     },
     {
       "title": "CN1 Raid Bot",
@@ -96,9 +96,9 @@
     },
     {
       "title": "CN1 MUTANT 3D machines and lab effects",
-      "body": "MUTANT owner checkpoint Nov 4: LAB WOW's 26×22×7.2 scene-unit room has more space around the enlarged bioreactor and cybernetic Seed. THE RELAY scanner has access from both sides; Distiller XXL, Chiller, Black Box, Pressure Regulator and Power Control Panel use original independent GLB models instead of generic box stations. The R9F power panel has a verified owner deployment receipt; the Containment Lock has owner visual approval without a reviewed SSH receipt. R10A's new ceiling lamp is prepared offline, not yet verified installed; R10B aims to enlarge and centre it, simplify ceiling clutter and give a few neon strips restrained flicker and light spill. Still to build: working animated switches, buttons, handwheels and lock levers; visible circulation and reactions of fluids; glass, pipework, smoke, lighting and industrial details; integration with G03/G04/G05 practice and real browser/mobile QA. The machines look far more respectable; the buttons still need acting lessons.",
-      "as_of": "2026-11-04",
-      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-04-mutant-lab-3d-progress.md",
+      "body": "As of Nov 6: the underground 3D lab source has a larger reactor/Seed chamber and modular machine components for the Relay scanner, Distiller, Chiller, Black Box, pressure/power stations, containment lock, lighting, wall machinery, monitoring frame and biotech pod. The owner previously approved meaningful visual work; the newest successful deployment receipt confirms the public wording cleanup, not a completed browser playthrough or an independent health check of every model. Next: verify the full Black Lab load, animate physical controls, make fluids and effects convincing, and refine the mood without blocking paths. The existing vial/containment/Black Box exercises are local practice only. Say 'original CN1 3D models' rather than naming the modelling software or internal release numbers.",
+      "as_of": "2026-11-06",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-06-mutant-public-entry.md",
       "status": "in_development"
     }
   ]
