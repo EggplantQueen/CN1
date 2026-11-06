@@ -1,6 +1,6 @@
 {
   "schema": "cn1-nex-public-feed-v1",
-  "version": 9,
+  "version": 10,
   "published_on": "2026-11-06",
   "records": [
     {
@@ -12,9 +12,9 @@
     },
     {
       "title": "NEX assistant and how to ask",
-      "body": "Owner-observed November 4: NEX answers direct community project questions using dated public records and is a separate assistant from CN1. The owner installed and successfully tested its X Radar group pilot: a selected X post can be previewed for human approval or dismissal before the link is shared voluntarily in Telegram. NEX does not continuously search X by itself, cannot certify X engagement, and does not issue XP or alter the Raid Bot. No mass tags, automatic X replies or forced group campaigns are part of this pilot.",
-      "as_of": "2026-11-04",
-      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-04-x-community-tools.md",
+      "body": "Owner-observed Nov 6: NEX, CN1's separate laboratory scientist, successfully welcomed a MUTANT visitor in Brazilian Portuguese in the approved Telegram group. He responded naturally, provided the MUTANT home and Black Lab links, described its actual research machines and kept future game features clearly marked unfinished. The owner approved this limited EN/FR/PT visitor feature, with a real Portuguese Telegram response confirmed; French/English are supported in the design but not separately certified in this owner report. NEX still uses dated public project records, optional Gemini for quota-bound queries and member opt-in memory. A broader natural conversation mode across CN1 projects is only in development, not active. NEX does not autonomously post, read unrelated chat, grant XP, change votes or operate live games. X Radar and anti-spam permissions remain unchanged.",
+      "as_of": "2026-11-06",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-06-nex-multilingual-welcome.md",
       "status": "reported_live"
     },
     {
