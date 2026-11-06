@@ -8,6 +8,9 @@ A quick answer to one question:
 
 ## RECENT VERIFIED / OWNER-REPORTED NOTES
 
+**2026-11-06 — [MUTANT / The Underground Experiment and The Black Lab](nex/updates/2026-11-06-mutant-public-entry.md).**
+Owner confirmed public entrance/branding cleanup and navigation; a complete Black Lab 3D start is not yet reverified. This is an honest development checkpoint, not a full game launch.
+
 **2026-11-03 — [MUTANT / GENESIS and NEX laboratory update](nex/updates/2026-11-03.md).**
 MUTANT is progressing through a **private R7.4A lab preview**, not a public game launch. NEX has been tested as a separate technical guide to public project information. Read the dated note for the limits of these claims.
 
