@@ -1,20 +1,90 @@
 {
   "schema": "cn1-nex-public-feed-v1",
-  "version": 10,
-  "published_on": "2026-11-06",
+  "version": 11,
+  "published_on": "2026-11-23",
   "records": [
     {
+      "title": "What's new in CN1: latest news, updates and progress",
+      "body": "Latest news / what's new / quoi de neuf / nouvelles / nouveautes / novidades: the November 23 review records real progress since the November 6 archive. The dice tower is physically assembled and its fit with the tray is owner-validated. NEX-01 has ongoing multicolor print and early electronics work, plus an approved Wi-Fi desk-companion architecture. Two original dice designs are approved and a sculptural D20 study exists; its print and play validation remain unfinished. Modular electronics holders have CAD prototype files; a painting grip has owner-tested ergonomics. CN1 passed an image-recognition test in Telegram on November 22; this is not a claim about NEX's image capabilities. The Black Lab's 3D start and Seed X-Ray were owner-validated. The future Guild Hall has an isolated layout preview and a colossal-tree direction, with the elevator inside the trunk. These are concrete tests, prototypes and design milestones, not a claim that every project has launched. The latest documented work is available even without a new public game release.",
+      "as_of": "2026-11-23",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-23-workshop-world-and-community.md",
+      "status": "in_development"
+    },
+    {
+      "title": "NEX-01 connected desk figurine and miniature laboratory",
+      "body": "NEX-01 is the physical connected desk figurine and miniature lab, distinct from the Telegram bot. The owner has begun hands-on multicolor printing and early electronics work; current modelling checks concern clean colour separation, tongue/tooth details, assembly and the replacement torso screen. The November 22 architecture decision makes it a Wi-Fi companion linked to our own NEX service, handling sound, display, presence and lighting on the device. The selected screen is now the Waveshare 1.83-inch model, replacing the unavailable round display. NEX itself stays fixed; servos are intended for the scanner/accessories. The architecture is approved, but working voice firmware, screen integration and a link with Telegram still need to be built and tested. No finished product or sale date is announced.",
+      "as_of": "2026-11-22",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-23-workshop-world-and-community.md",
+      "status": "in_development"
+    },
+    {
+      "title": "CN1 La Poigne du Neant dice tower",
+      "body": "The physical La Poigne du Neant dice tower has reached an owner-validated assembly milestone: the tower is mounted and its connection to the tray fits correctly. At the latest owner report reviewed on November 23, the slide was still being printed, remaining supports were being finalized and decorative work was the next stage. Sound, lighting and a possible impact-triggered effect are part of the electronics preparation, not yet a demonstrated working installation. This is a substantial physical prototype, with the complete dice path, finishing and electronics still to validate.",
+      "as_of": "2026-11-23",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-23-workshop-world-and-community.md",
+      "status": "in_development"
+    },
+    {
+      "title": "CN1 original tabletop dice and sculptural D20",
+      "body": "Two original dice art directions are approved: Eclat comprime (compressed mineral forms) and Rosace repliee (folded rose-window architecture), designed to fit the tower's universe. The November 20 checkpoint includes an actual sculptural D20 model and a render made from that geometry, with thick faceted shapes and recessed numbers. Its resting surfaces still need correction; the study is not yet ready to print or play. Physical print tests, painting, roll behaviour, resin masters and moulds remain later steps. The earlier panelled D6 is not the current approved sculptural direction. This is active prototype development, not a finished or commercially validated dice range.",
+      "as_of": "2026-11-20",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-23-workshop-world-and-community.md",
+      "status": "experimental"
+    },
+    {
+      "title": "CN1 LAB LINK modular electronics workbench",
+      "body": "CN1 LAB LINK now has a first modular electronics-workbench design, documented November 22. CAD and prototype files are prepared for mechanically connected printed holders for breadboards, small controller boards, terminal blocks and cables, plus practical soldering-wire supports. The purpose is to make NEX-01 and future hardware prototyping easier with reusable modules. Digital geometry checks have been performed; physical fit tests with the printer and real components are still required. This is a prototype toolset, not a finished tested product or an electrical connection through the printed joints.",
+      "as_of": "2026-11-22",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-23-workshop-world-and-community.md",
+      "status": "experimental"
+    },
+    {
+      "title": "CN1 painting grip and workshop tools",
+      "body": "The workshop's painting grip has progressed through real owner feedback: the handle's ergonomics, textures and base were approved. The adjustment wheel is being made more substantial, and the adjustable little-finger rest and support rods are being refined for comfortable use and strength. A fragile printed part prompted a redesign request. These are tested elements within an evolving workshop accessory; the entire final assembly is not being presented as finished. This work supports painting the project's physical miniatures and tabletop creations.",
+      "as_of": "2026-11-23",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-23-workshop-world-and-community.md",
+      "status": "in_development"
+    },
+    {
+      "title": "CN1 Eggplant Queen voxel trophy",
+      "body": "The owner approved the voxel-style Eggplant Queen trophy concept in November. The intended design combines the eggplant sculpture and a broad stable base in one multicolour print, with volume and pixel-like relief on both sides. A separate nameplate is planned for the base so it can be changed without replacing the sculpture. The approved concept is real design progress; a successful final print, production run or public sale has not been established.",
+      "as_of": "2026-11-13",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-23-workshop-world-and-community.md",
+      "status": "planned"
+    },
+    {
+      "title": "CN1 Telegram image recognition test",
+      "body": "On November 22 the owner tested whether CN1 could recognize an image in Telegram and explicitly reported that the test succeeded. This is a confirmed owner-reported image-understanding milestone for CN1 in Telegram. It does not establish that every group message is analyzed, that all image types work or that the separate @CN1Nex_bot now has image recognition. Broader availability and integration still need their own evidence.",
+      "as_of": "2026-11-22",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-23-workshop-world-and-community.md",
+      "status": "experimental"
+    },
+    {
+      "title": "CN1 Tree of the Abyss and future Guild Hall",
+      "body": "On November 23 the Guild Hall reached architectural prototyping: an isolated layout preview exists, and the owner approved a more monumental hall dominated by a colossal Tree of the Abyss. The future Underworld elevator belongs inside the trunk/root base, with a separate route to MUTANT's Black Lab. The aim is a shared CN1 social room eventually accessible from the Club and a dedicated entry page, without requiring completion of Demon Drift. Detailed 3D scenery, lighting, subtle animation and performance work will follow in stages. The new hall is not deployed or publicly open at this checkpoint; the marketplace, Underworld travel and item economy are future systems.",
+      "as_of": "2026-11-23",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-23-workshop-world-and-community.md",
+      "status": "in_development"
+    },
+    {
+      "title": "CN1 tabletop RPG and shared universe",
+      "body": "The current creative direction is to connect physical miniatures, original dice and dice towers with the existing CN1 world, Club and Black Lab. The giant Tree of the Abyss and future Guild Hall provide a setting for that connection. Work is focused on a coherent universe and practical tabletop creations while preserving the games already built. A finished tabletop rules system, complete campaign, live physical-to-game rewards and public shop catalogue are not established. This is an approved direction being developed, with no announced launch date.",
+      "as_of": "2026-11-23",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-23-workshop-world-and-community.md",
+      "status": "planned"
+    },
+    {
       "title": "CN1 MUTANT and The Lab",
-      "body": "Owner checkpoint Nov 6: CN1 MUTANT's public presentation is called The Underground Experiment; the CN1 website MUTANT card opens the separate MUTANT homepage, not a forced jump into the lab. The laboratory is branded THE BLACK LAB at mutant.eggplantqueen.lol/black-lab/. The owner verified a copy-only cleanup: zero visible 3D-tool references on the MUTANT homepage, technical version labels removed from public copy, existing navigation and original 3D/gameplay unchanged. A complete 3D browser start was not verified by this receipt: an earlier test stalled at CALIBRATING SYSTEMS. NEX and the Seed are present; real guild inventory, public votes, global Seed changes and full mechanical animation are not live.",
-      "as_of": "2026-11-06",
-      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-06-mutant-public-entry.md",
+      "body": "The owner verified that The Black Lab loads correctly in Edge and that the Seed's X-RAY interaction works. The earlier calibration-screen startup problem was resolved in the November 6 checkpoint; do not report it as a current blocker. The reactor has the approved fitted purple egg, clearer glass, subtle bubbles and cleaned-up surface details. X-RAY is a spectral view of the egg's surface; an internal creature and shared biological evolution remain future work. The G03-G05 local experiment loop produced a stable report, and a real Black Box Telegram share was confirmed on November 7 with the correct /black-lab/ link. These are local practice experiments, not live guild inventory or global Seed changes. The official public entrance remains mutant.eggplantqueen.lol, with the lab at mutant.eggplantqueen.lol/black-lab/.",
+      "as_of": "2026-11-07",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-23-workshop-world-and-community.md",
       "status": "in_development"
     },
     {
       "title": "NEX assistant and how to ask",
-      "body": "Owner-observed Nov 6: NEX, CN1's separate laboratory scientist, successfully welcomed a MUTANT visitor in Brazilian Portuguese in the approved Telegram group. He responded naturally, provided the MUTANT home and Black Lab links, described its actual research machines and kept future game features clearly marked unfinished. The owner approved this limited EN/FR/PT visitor feature, with a real Portuguese Telegram response confirmed; French/English are supported in the design but not separately certified in this owner report. NEX still uses dated public project records, optional Gemini for quota-bound queries and member opt-in memory. A broader natural conversation mode across CN1 projects is only in development, not active. NEX does not autonomously post, read unrelated chat, grant XP, change votes or operate live games. X Radar and anti-spam permissions remain unchanged.",
-      "as_of": "2026-11-06",
-      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-06-nex-multilingual-welcome.md",
+      "body": "NEX is CN1's separate laboratory scientist and project guide, using dated approved public records. Community explanations should be clear, natural English or Brazilian Portuguese, with prototype progress distinguished from public releases. The owner's Portuguese visitor-welcome test was successful. The latest archive now covers the connected NEX-01 figurine, workshop, dice tower, tabletop dice, Guild Hall and community tests as well as the games and Black Lab. NEX-01 is a separate physical prototype: its Wi-Fi conversation architecture is approved, but working voice firmware and a Telegram connection are not yet demonstrated. Ask about the figurine to distinguish it from this bot. NEX can describe approved progress; he does not operate the real laboratory, grant game rewards or automatically publish community announcements.",
+      "as_of": "2026-11-23",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-23-workshop-world-and-community.md",
       "status": "reported_live"
     },
     {
@@ -26,9 +96,9 @@
     },
     {
       "title": "CN1 Demon Drift",
-      "body": "The owner reported Chapter I publicly released by 2026-10-31. Later chapters remain in development, with a focus on better movement, discovery and companion-led clues. Guild integrations and later-story features are design work, not confirmed live. Check the official Arcade for current playable access.",
-      "as_of": "2026-10-31",
-      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-03-ecosystem.md",
+      "body": "Chapter I was owner-reported publicly released by October 31. At the November 10 checkpoint, Chapter II's eight-direction movement update was recorded as installed, with movement, dash, combat, smoke, Seed, Warden, Webheart and cinematic checks reported successful. This is an owner-reported development milestone, not a new certification of public access to every chapter. The unfinished Chapter III is on hold; a documented transition concept would connect its story to the Tree of the Abyss, the future Guild Hall and MUTANT. The new transition, Underworlds and shared inventory remain future work. Check the official Arcade for currently offered playable access.",
+      "as_of": "2026-11-10",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-23-workshop-world-and-community.md",
       "status": "in_development"
     },
     {
@@ -47,9 +117,9 @@
     },
     {
       "title": "CN1 guilds",
-      "body": "The owner reported a limited private Guilds R16 beta with help and read-only NFT-related functions. Links to Demon Drift, shared items and guild resource systems remain staged work. Public signup, XP entitlement and unrestricted transfers are not established.",
-      "as_of": "2026-10-31",
-      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-03-ecosystem.md",
+      "body": "The existing guild work includes an owner-reported limited private beta and read-only NFT-related functions. New progress on November 23 concerns the future Guild Hall: an isolated architectural preview and an approved direction for a colossal Tree of the Abyss, with a future Underworld elevator inside its trunk and a separate route to MUTANT. The intended hall is one shared meeting place, eventually reachable from the Club and its own entry page without requiring players to finish Demon Drift. The hall is not publicly opened by this checkpoint. Its marketplace, item transfers, world transitions and new rewards still need implementation and validation.",
+      "as_of": "2026-11-23",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-23-workshop-world-and-community.md",
       "status": "in_development"
     },
     {
@@ -61,9 +131,9 @@
     },
     {
       "title": "CN1 Comics and Sunday stories",
-      "body": "The CN1 comic/BD series has recurring Sunday publications shared by its creator through community channels. Its art direction and humor connect to CN1's larger universe. A specific future episode, numbering or public release time should not be assumed from this archived record.",
-      "as_of": "2026-11-01",
-      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-03-ecosystem.md",
+      "body": "The recurring CN1 Sunday comic series continues to connect the characters, games and community. Recent creative work includes Demon Drift story ideas and an episode direction about learning 3D printing and starting the NEX desk-figurine electronics project. Those themes are work in progress, not proof that a particular new episode has already been published. Artwork and announcements remain creator-reviewed and manually shared. Do not invent episode numbers, publication counts or release dates.",
+      "as_of": "2026-11-23",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-23-workshop-world-and-community.md",
       "status": "reported_live"
     },
     {
@@ -96,9 +166,9 @@
     },
     {
       "title": "CN1 MUTANT 3D machines and lab effects",
-      "body": "As of Nov 6: the underground 3D lab source has a larger reactor/Seed chamber and modular machine components for the Relay scanner, Distiller, Chiller, Black Box, pressure/power stations, containment lock, lighting, wall machinery, monitoring frame and biotech pod. The owner previously approved meaningful visual work; the newest successful deployment receipt confirms the public wording cleanup, not a completed browser playthrough or an independent health check of every model. Next: verify the full Black Lab load, animate physical controls, make fluids and effects convincing, and refine the mood without blocking paths. The existing vial/containment/Black Box exercises are local practice only. Say 'original CN1 3D models' rather than naming the modelling software or internal release numbers.",
-      "as_of": "2026-11-06",
-      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-06-mutant-public-entry.md",
+      "body": "The November 7 owner checkpoints record further accepted Black Lab atmosphere and layout improvements: an industrial ceiling, controlled coloured vapor from laboratory equipment and overhead exhausts, clearer placement of the right-side machines, the biotech pod back on its island and decorative laboratory specimens on rear shelving. The reactor, Relay scanner, Distiller, Chiller, Black Box and containment hardware form an evolving 3D lab. Physical controls and fluid animation are being developed progressively, machine by machine. The reactor's thermal instrument concerns the local experiment's heat index, not a verified biological temperature of the shared Seed. Use original CN1 model and machine names in public explanations, without internal release labels or modelling-tool names.",
+      "as_of": "2026-11-07",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-23-workshop-world-and-community.md",
       "status": "in_development"
     }
   ]

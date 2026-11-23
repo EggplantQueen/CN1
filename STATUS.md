@@ -8,6 +8,9 @@ A quick answer to one question:
 
 ## RECENT VERIFIED / OWNER-REPORTED NOTES
 
+**2026-11-23 — [Workshop, world and community progress](nex/updates/2026-11-23-workshop-world-and-community.md).**
+The dice tower has an owner-validated physical assembly; NEX-01 print/electronics work, original dice, modular workshop tools and the future Guild Hall have progressed. A CN1 Telegram image test succeeded. The later Black Lab startup and X-Ray validations supersede the old calibration-screen report. Read the dated note for the distinctions between tested parts, prototypes and plans. NEX's public archive is now edition 11.
+
 **2026-11-06 — [MUTANT / The Underground Experiment and The Black Lab](nex/updates/2026-11-06-mutant-public-entry.md).**
 Owner confirmed public entrance/branding cleanup and navigation; a complete Black Lab 3D start is not yet reverified. This is an honest development checkpoint, not a full game launch.
 
@@ -141,4 +144,4 @@ The engine room stays locked.
 
 ---
 
-_Last updated: 2026-09-29_
+_Core status baseline: 2026-09-29. Dated update index reviewed: 2026-11-23. Older sections retain their own evidence dates._
