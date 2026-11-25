@@ -1,13 +1,13 @@
 {
   "schema": "cn1-nex-public-feed-v1",
-  "version": 11,
-  "published_on": "2026-11-23",
+  "version": 12,
+  "published_on": "2026-11-25",
   "records": [
     {
       "title": "What's new in CN1: latest news, updates and progress",
-      "body": "Latest news / what's new / quoi de neuf / nouvelles / nouveautes / novidades: the November 23 review records real progress since the November 6 archive. The dice tower is physically assembled and its fit with the tray is owner-validated. NEX-01 has ongoing multicolor print and early electronics work, plus an approved Wi-Fi desk-companion architecture. Two original dice designs are approved and a sculptural D20 study exists; its print and play validation remain unfinished. Modular electronics holders have CAD prototype files; a painting grip has owner-tested ergonomics. CN1 passed an image-recognition test in Telegram on November 22; this is not a claim about NEX's image capabilities. The Black Lab's 3D start and Seed X-Ray were owner-validated. The future Guild Hall has an isolated layout preview and a colossal-tree direction, with the elevator inside the trunk. These are concrete tests, prototypes and design milestones, not a claim that every project has launched. The latest documented work is available even without a new public game release.",
-      "as_of": "2026-11-23",
-      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-23-workshop-world-and-community.md",
+      "body": "Latest news / what's new / quoi de neuf / nouvelles / nouveautes / novidades: the November 25 review records new room-access and tabletop milestones. The dice tower now has a redesigned curved exit and accessible nut pockets after roll tests exposed a braking issue; the new chute still needs a physical trial. NEX-01 remains in physical prototyping with an approved Wi-Fi companion architecture; finished voice firmware and screen integration are not yet demonstrated. The Guild Hall now has an installed, owner-approved circular Club entrance; the matching return portal and animated interior are prepared, not confirmed live. Black Lab-inspired tabletop terrain now has four sculpted tile files and an owner-tested top-fit connector; full tile print and play tests remain pending. These are real installations, design files and targeted physical tests, with the remaining limits stated.",
+      "as_of": "2026-11-25",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-25-guild-portal-and-tabletop-prototypes.md",
       "status": "in_development"
     },
     {
@@ -19,9 +19,9 @@
     },
     {
       "title": "CN1 La Poigne du Neant dice tower",
-      "body": "The physical La Poigne du Neant dice tower has reached an owner-validated assembly milestone: the tower is mounted and its connection to the tray fits correctly. At the latest owner report reviewed on November 23, the slide was still being printed, remaining supports were being finalized and decorative work was the next stage. Sound, lighting and a possible impact-triggered effect are part of the electronics preparation, not yet a demonstrated working installation. This is a substantial physical prototype, with the complete dice path, finishing and electronics still to validate.",
+      "body": "The dice tower has a real assembled prototype. Owner tests on November 23 exposed missing nut accommodation, a protruding screw head and a final exit that slowed the dice too much. The latest design continues the existing slide into a rounded chute turning gently left, with accessible M3 nut pockets. Updated fabrication files and numerical geometry, clearance and assembly checks are available. The new exit still needs slicing, printing and real dice-roll tests; sound, lighting and the complete final assembly are not yet claimed as validated. Earlier successful tower-to-tray fitting remains a limited assembly milestone, not proof that the whole dice path is finished.",
       "as_of": "2026-11-23",
-      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-23-workshop-world-and-community.md",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-25-guild-portal-and-tabletop-prototypes.md",
       "status": "in_development"
     },
     {
@@ -61,17 +61,17 @@
     },
     {
       "title": "CN1 Tree of the Abyss and future Guild Hall",
-      "body": "On November 23 the Guild Hall reached architectural prototyping: an isolated layout preview exists, and the owner approved a more monumental hall dominated by a colossal Tree of the Abyss. The future Underworld elevator belongs inside the trunk/root base, with a separate route to MUTANT's Black Lab. The aim is a shared CN1 social room eventually accessible from the Club and a dedicated entry page, without requiring completion of Demon Drift. Detailed 3D scenery, lighting, subtle animation and performance work will follow in stages. The new hall is not deployed or publicly open at this checkpoint; the marketplace, Underworld travel and item economy are future systems.",
-      "as_of": "2026-11-23",
-      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-23-workshop-world-and-community.md",
+      "body": "By November 25 the Guild Hall had moved beyond its isolated architectural preview. The owner approved a large circular portal in the Club, and the installed entrance files were checked online. The accepted colossal-tree hall remains the setting for the future Underworld elevator and shared social direction. A matching portal inside the hall, a deliberate return route and a richer animated mist interior are prepared as the next update; their installation and final browser playtest are not confirmed by this checkpoint. The existing identity/session system is retained. A live marketplace, Underworld destinations, item transfers and new rewards are not established by the portal work.",
+      "as_of": "2026-11-25",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-25-guild-portal-and-tabletop-prototypes.md",
       "status": "in_development"
     },
     {
       "title": "CN1 tabletop RPG and shared universe",
-      "body": "The current creative direction is to connect physical miniatures, original dice and dice towers with the existing CN1 world, Club and Black Lab. The giant Tree of the Abyss and future Guild Hall provide a setting for that connection. Work is focused on a coherent universe and practical tabletop creations while preserving the games already built. A finished tabletop rules system, complete campaign, live physical-to-game rewards and public shop catalogue are not established. This is an approved direction being developed, with no announced launch date.",
-      "as_of": "2026-11-23",
-      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-23-workshop-world-and-community.md",
-      "status": "planned"
+      "body": "The physical tabletop side of CN1 now includes actual sculpted terrain files alongside the dice tower, original dice studies and miniatures. On November 25, four modular floor tiles were prepared around the existing Heart and reservoir scenery, following a laboratory-overtaken-by-roots visual direction. The owner has physically approved the small connector that joins tiles from above. The full-size tiles, their final print fit and the complete play layout still need physical trials. The terrain supports development of a coherent setting related to CN1's digital world; a finished rules system, balanced campaign, digital rewards or public shop launch is not established.",
+      "as_of": "2026-11-25",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-25-guild-portal-and-tabletop-prototypes.md",
+      "status": "in_development"
     },
     {
       "title": "CN1 MUTANT and The Lab",
@@ -117,9 +117,9 @@
     },
     {
       "title": "CN1 guilds",
-      "body": "The existing guild work includes an owner-reported limited private beta and read-only NFT-related functions. New progress on November 23 concerns the future Guild Hall: an isolated architectural preview and an approved direction for a colossal Tree of the Abyss, with a future Underworld elevator inside its trunk and a separate route to MUTANT. The intended hall is one shared meeting place, eventually reachable from the Club and its own entry page without requiring players to finish Demon Drift. The hall is not publicly opened by this checkpoint. Its marketplace, item transfers, world transitions and new rewards still need implementation and validation.",
-      "as_of": "2026-11-23",
-      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-23-workshop-world-and-community.md",
+      "body": "The Guild Hall now has an owner-approved circular entrance installed in the Club, with its online files checked on November 25. This is concrete progress on access and presentation around the colossal Tree of the Abyss. The next prepared update adds a matching hall-side portal, deliberate return to the Club and an animated interior effect; it is not yet confirmed installed. The entrance work does not establish a new guild economy, marketplace, item transfers, Underworld travel or reward system. Those systems remain separate development milestones. Existing Club identity and guild-related behavior are preserved.",
+      "as_of": "2026-11-25",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-25-guild-portal-and-tabletop-prototypes.md",
       "status": "in_development"
     },
     {
@@ -170,6 +170,14 @@
       "as_of": "2026-11-07",
       "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-23-workshop-world-and-community.md",
       "status": "in_development"
+    },
+    {
+      "title": "CN1 modular tabletop terrain and sculpted tiles",
+      "body": "The Sanctuaire des Aubryths tabletop terrain reached a new prototype milestone on November 25. Four different 160 mm square floor-tile files form an initial 320 mm square sector: anchoring, rupture, service area and reclaiming roots. The larger scenery remains removable. Tiles use a small connector fitted and removed from above, so assembly does not require turning the terrain over; the owner explicitly validated the one-dot connector's fit. That validated connector is reused unchanged in the new tile design. Individual 3MF and STL files and geometry/assembly checks are prepared. The large tiles, their printer flatness, new edge caps and actual play arrangement still need physical testing. No completed game rules or commercial release is claimed.",
+      "as_of": "2026-11-25",
+      "source": "https://github.com/EggplantQueen/CN1/blob/main/nex/updates/2026-11-25-guild-portal-and-tabletop-prototypes.md",
+      "status": "experimental"
     }
   ]
 }
+

@@ -8,8 +8,11 @@ A quick answer to one question:
 
 ## RECENT VERIFIED / OWNER-REPORTED NOTES
 
+**2026-11-25 — [Guild Hall entrance, dice-tower corrections and modular tabletop terrain](nex/updates/2026-11-25-guild-portal-and-tabletop-prototypes.md).**
+The circular Guild Hall entrance in the Club is installed and owner-approved. The matching return portal and animated interior are prepared for a later update. Physical dice tests prompted a redesigned tower exit; its print trial is still pending. Four sculpted terrain-tile files now reuse an owner-tested connector. NEX's public archive is edition 12; the dated note distinguishes installed work, prototype files and remaining physical tests.
+
 **2026-11-23 — [Workshop, world and community progress](nex/updates/2026-11-23-workshop-world-and-community.md).**
-The dice tower has an owner-validated physical assembly; NEX-01 print/electronics work, original dice, modular workshop tools and the future Guild Hall have progressed. A CN1 Telegram image test succeeded. The later Black Lab startup and X-Ray validations supersede the old calibration-screen report. Read the dated note for the distinctions between tested parts, prototypes and plans. NEX's public archive is now edition 11.
+The dice tower has an owner-validated physical assembly; NEX-01 print/electronics work, original dice, modular workshop tools and the future Guild Hall have progressed. A CN1 Telegram image test succeeded. The later Black Lab startup and X-Ray validations supersede the old calibration-screen report. Read the dated note for the distinctions between tested parts, prototypes and plans. This checkpoint was published as NEX archive edition 11.
 
 **2026-11-06 — [MUTANT / The Underground Experiment and The Black Lab](nex/updates/2026-11-06-mutant-public-entry.md).**
 Owner confirmed public entrance/branding cleanup and navigation; a complete Black Lab 3D start is not yet reverified. This is an honest development checkpoint, not a full game launch.
@@ -144,4 +147,4 @@ The engine room stays locked.
 
 ---
 
-_Core status baseline: 2026-09-29. Dated update index reviewed: 2026-11-23. Older sections retain their own evidence dates._
+_Core status baseline: 2026-09-29. Dated update index reviewed: 2026-11-25. Older sections retain their own evidence dates._
